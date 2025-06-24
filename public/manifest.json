@@ -1,0 +1,11 @@
+{
+  "manifest_version": 3,
+  "name": "Freelance hub",
+  "version": "1.0.0",
+  "description": "Curated list of freelance platforms with category filters, platform search and more...",
+  "action": {
+    "default_popup": "index.html",
+    "default_title": "Freelance Platforms"
+  },
+  "permissions": ["tabs"]
+}
