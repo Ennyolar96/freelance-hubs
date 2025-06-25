@@ -4,4 +4,5 @@ export interface Site {
   url: string;
   categories: string[];
   image: string;
+  description?: string;
 }

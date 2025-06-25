@@ -5,10 +5,10 @@ function App() {
   const [category, setCategory] = useState("all");
 
   const categories = [
-    { id: "all", name: "All" },
-    { id: "design", name: "Design" },
-    { id: "writing", name: "Writing" },
-    { id: "development", name: "Development" },
+    { id: "all", name: "all" },
+    { id: "design", name: "design" },
+    { id: "writing", name: "writing" },
+    { id: "development", name: "development" },
   ];
 
   return (
@@ -23,7 +23,7 @@ function App() {
           <button
             key={cat.id}
             onClick={() => setCategory(cat.id)}
-            className={`px-3 py-1 rounded-full text-sm font-medium ${
+            className={`px-3 py-1 rounded-full text-sm font-medium capitalize ${
               category === cat.id
                 ? "bg-primary text-white"
                 : "text-white/70 hover:bg-gray-200 hover:text-primary"
