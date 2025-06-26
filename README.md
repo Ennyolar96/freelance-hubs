@@ -65,7 +65,7 @@ We welcome contributions! Please follow these steps:
 - Push to the branch (git push origin feature/AmazingFeature)
 - Open a Pull Request
 
-### Monetization Strategy
+<!-- ### Monetization Strategy
 
 Freelance Finder will implement sustainable monetization through:
 
@@ -74,7 +74,7 @@ Freelance Finder will implement sustainable monetization through:
 - Sponsored listings for platforms wanting increased visibility
 - Enterprise version for teams and agencies
 
-All monetization will be transparent and non-intrusive to the core user experience.
+All monetization will be transparent and non-intrusive to the core user experience. -->
 
 ### Roadmap
 
