@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { SiteList } from "./siteList";
+import { SiteList } from "./components/siteList";
 
 function App() {
   const [category, setCategory] = useState("all");

@@ -1,11 +1,12 @@
-import type { Site } from "./interface";
-import * as img from "./assets";
+import type { Site } from "./interface/site";
+import * as img from "../assets";
 
 export const sites: Site[] = [
   {
     id: 1,
     name: "Upwork",
     url: "https://www.upwork.com/",
+    // url: "https://www.upwork.com/?ref=freelancefinder_affiliate_id",
     description:
       "Millions of freelance gigs for virtual assistants, writers, & more.",
     categories: ["design", "writing", "development", "freelance"],

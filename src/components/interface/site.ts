@@ -5,4 +5,5 @@ export interface Site {
   categories: string[];
   image: string;
   description?: string;
+  sponsored?: boolean;
 }

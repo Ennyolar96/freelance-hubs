@@ -1,7 +1,7 @@
 import { useMemo, useState, type ChangeEvent } from "react";
 import { sites } from "./data";
 import { filter, orderBy } from "lodash";
-import type { Site } from "./interface";
+import type { Site } from "./interface/site";
 
 export const SiteList = ({ category }: { category: string }) => {
   const [data, setData] = useState<Site[]>([]);
