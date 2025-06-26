@@ -10,6 +10,26 @@ import Design99 from "./99design.jpg";
 import upwork from "./upwork.png";
 import weWorkRemotely from "./weworkremotely.png";
 import writeAccess from "./writeAccess.jpeg";
+import Arc from "./arc.jpeg";
+import authenticjobs from "./authenticjobs.png";
+import behance from "./behance.png";
+import careerVault from "./careervault.jpeg";
+import designhill from "./designhill.jpeg";
+import flexJobs from "./flexjobs.png";
+import freelancemap from "./freelancermap.jpeg";
+import gun from "./gun.png";
+import jobspresso from "./jobspresso.png";
+import justRemote from "./justremote.jpeg";
+import landingJob from "./landingJobs.png";
+import pangian from "./pangian.jpeg";
+import powerToFly from "./powertofly.jpeg";
+import remoteCo from "./remoteCo.jpeg";
+import remoteOk from "./remoteok.png";
+import remotive from "./remotive.png";
+import skipTheDrive from "./skipthedrive.jpeg";
+import virtualvocations from "./virtualvocations.jpeg";
+import wellFound from "./Wellfound.png";
+import workingnomads from "./workingnomads.png";
 
 export {
   Contently,
@@ -24,4 +44,24 @@ export {
   upwork,
   weWorkRemotely,
   writeAccess,
+  Arc,
+  authenticjobs,
+  behance,
+  careerVault,
+  designhill,
+  flexJobs,
+  freelancemap,
+  gun,
+  jobspresso,
+  justRemote,
+  landingJob,
+  pangian,
+  powerToFly,
+  remoteCo,
+  remoteOk,
+  remotive,
+  skipTheDrive,
+  virtualvocations,
+  wellFound,
+  workingnomads,
 };

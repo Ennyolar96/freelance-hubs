@@ -98,7 +98,7 @@ export const sites: Site[] = [
     url: "https://www.flexjobs.com",
     description: "Discover 50+ remote job categories with 100,000+ listings.",
     categories: ["design", "writing", "development"],
-    image: "",
+    image: img.flexJobs,
   },
   {
     id: 14,
@@ -106,7 +106,7 @@ export const sites: Site[] = [
     url: "https://arc.dev",
     description: "AI-matched remote developer jobs & internships worldwide.",
     categories: ["development"],
-    image: "",
+    image: img.Arc,
   },
   {
     id: 15,
@@ -114,7 +114,7 @@ export const sites: Site[] = [
     url: "https://jobspresso.co",
     description: "Freelance and full-time jobs across 5+ industries.",
     categories: ["design", "writing", "development"],
-    image: "",
+    image: img.jobspresso,
   },
   {
     id: 16,
@@ -122,7 +122,7 @@ export const sites: Site[] = [
     url: "https://remote.co",
     description: "Remote work resources and job listings across industries.",
     categories: ["design", "writing", "development"],
-    image: "",
+    image: img.remoteCo,
   },
   {
     id: 17,
@@ -130,7 +130,7 @@ export const sites: Site[] = [
     url: "https://justremote.co",
     description: "Access hidden remote jobs with PowerSearch for $6/month.",
     categories: ["design", "writing", "development"],
-    image: "",
+    image: img.justRemote,
   },
   {
     id: 18,
@@ -138,15 +138,15 @@ export const sites: Site[] = [
     url: "https://www.virtualvocations.com",
     description: "Find thousands of telecommuting jobs & exclusive resources.",
     categories: ["design", "writing", "development"],
-    image: "",
+    image: img.virtualvocations,
   },
   {
     id: 19,
-    name: "Remoteve",
+    name: "Remotive",
     url: "https://remotive.io",
     description: "Bi-monthly updates of remote jobs in 8+ categories.",
     categories: ["design", "writing", "development"],
-    image: "",
+    image: img.remotive,
   },
   {
     id: 20,
@@ -154,7 +154,7 @@ export const sites: Site[] = [
     url: "https://www.skipthedrive.com",
     description: "Resources & remote jobs without the gridlock.",
     categories: ["design", "writing", "development"],
-    image: "",
+    image: img.skipTheDrive,
   },
   {
     id: 21,
@@ -162,7 +162,7 @@ export const sites: Site[] = [
     url: "https://pangian.com",
     description: "Join the fastest-growing global remote job community.",
     categories: ["design", "writing", "development"],
-    image: "",
+    image: img.pangian,
   },
   {
     id: 22,
@@ -170,7 +170,7 @@ export const sites: Site[] = [
     url: "https://www.workingnomads.co",
     description: "Curated remote job emails daily or weekly.",
     categories: ["design", "writing", "development"],
-    image: "",
+    image: img.workingnomads,
   },
   {
     id: 23,
@@ -179,7 +179,7 @@ export const sites: Site[] = [
     description:
       "Development-focused job board connecting diverse professionals globally.",
     categories: ["development"],
-    image: "",
+    image: img.powerToFly,
   },
   {
     id: 24,
@@ -188,7 +188,7 @@ export const sites: Site[] = [
     description:
       "Remote job board with listings in Development, design, and more.",
     categories: ["development", "design"],
-    image: "",
+    image: img.remoteOk,
   },
   {
     id: 25,
@@ -196,7 +196,7 @@ export const sites: Site[] = [
     url: "https://landing.jobs",
     description: "Remote jobs filtered by flexibility and commuting distance.",
     categories: ["development"],
-    image: "",
+    image: img.landingJob,
   },
   {
     id: 26,
@@ -204,7 +204,7 @@ export const sites: Site[] = [
     url: "https://careervault.io",
     description: "Search 200+ fresh remote jobs added daily.",
     categories: ["design", "writing", "development"],
-    image: "",
+    image: img.careerVault,
   },
   {
     id: 27,
@@ -212,7 +212,7 @@ export const sites: Site[] = [
     url: "https://authenticjobs.com",
     description: "Remote Development and design jobs from trusted companies.",
     categories: ["development", "design"],
-    image: "",
+    image: img.authenticjobs,
   },
   {
     id: 28,
@@ -220,7 +220,7 @@ export const sites: Site[] = [
     url: "https://wellfound.com",
     description: "Explore 100s of remote startup jobs worldwide.",
     categories: ["development"],
-    image: "",
+    image: img.wellFound,
   },
   {
     id: 29,
@@ -228,7 +228,7 @@ export const sites: Site[] = [
     url: "https://www.designhill.com",
     description: "Join creative contests & connect with global clients.",
     categories: ["design"],
-    image: "",
+    image: img.designhill,
   },
   {
     id: 30,
@@ -236,7 +236,7 @@ export const sites: Site[] = [
     url: "https://www.freelancermap.com",
     description: "Global IT freelance jobs with 11,000+ live listings.",
     categories: ["development"],
-    image: "",
+    image: img.freelancemap,
   },
   {
     id: 31,
@@ -244,7 +244,7 @@ export const sites: Site[] = [
     url: "https://gun.io",
     description: "Freelance for developers—keep 100% of what you earn.",
     categories: ["development"],
-    image: "",
+    image: img.gun,
   },
   {
     id: 32,
@@ -252,6 +252,6 @@ export const sites: Site[] = [
     url: "https://www.behance.net",
     description: "Showcase your portfolio and land design gigs globally.",
     categories: ["design"],
-    image: "",
+    image: img.behance,
   },
 ];

@@ -65,9 +65,16 @@ export const SiteList = ({ category }: { category: string }) => {
             <img
               src={site.image}
               alt={site.name}
-              className="bg-gray-200 border-2 rounded-xl w-10 h-10 mr-3"
+              className="bg-gray-200 border-2 rounded w-10 h-10 mr-3"
             />
-            <span className="font-medium text-white/80">{site.name}</span>
+            <div className="text-left">
+              <h5 className="font-medium text-base text-white/80">
+                {site.name}
+              </h5>
+              <p className="line-clamp-1 text-sm text-gray-600">
+                {site.description}
+              </p>
+            </div>
           </button>
         ))}
       </div>
