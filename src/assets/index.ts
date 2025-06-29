@@ -30,6 +30,10 @@ import skipTheDrive from "./skipthedrive.jpeg";
 import virtualvocations from "./virtualvocations.jpeg";
 import wellFound from "./Wellfound.png";
 import workingnomads from "./workingnomads.png";
+import remotely from "./remotely.png";
+import jsJobbs from "./jsjobbs.png";
+import jsRemote from "./js-remote.png";
+import pyjama from "./pyjama-jobs.jpeg";
 
 export {
   Contently,
@@ -64,4 +68,8 @@ export {
   virtualvocations,
   wellFound,
   workingnomads,
+  remotely,
+  jsJobbs,
+  jsRemote,
+  pyjama,
 };

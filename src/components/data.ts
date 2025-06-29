@@ -255,4 +255,48 @@ export const sites: Site[] = [
     categories: ["design"],
     image: img.behance,
   },
+  {
+    id: 33,
+    name: "Pyjama Jobs By Kickresume",
+    url: "https://www.kickresume.com",
+    description:
+      "Let AI match you with remote jobs you're already qualified for",
+    categories: ["development"],
+    image: img.pyjama,
+  },
+  {
+    id: 34,
+    name: "Javascript Jobs",
+    url: "https://javascript.jobs",
+    description:
+      "biggest job board dedicated to Javascript Jobs. We cover all flavors - including Node, React, Angular, Vue, NextJS, TypeScript, vanilla Javascript",
+    categories: ["development"],
+    image: img.jsRemote,
+  },
+  {
+    id: 35,
+    name: "JS Jobbs",
+    url: "https://www.jsjobbs.com",
+    description:
+      "JsJobbs is your number one destination to Find JavaScript jobs and Hire top JavaScript developers and programmers - React.JS, Node.JS, Vue.",
+    categories: ["development"],
+    image: img.jsJobbs,
+  },
+  {
+    id: 36,
+    name: "Js Remote",
+    url: "https://jsremote.jobs",
+    description: "",
+    categories: ["development"],
+    image: img.jsRemote,
+  },
+  {
+    id: 37,
+    name: "Remotely",
+    url: "https://remotely.jobs",
+    description:
+      "Remotely is a remote job board on the web to help you find a career where you can work remotely from anywhere.",
+    categories: ["design", "writing", "development"],
+    image: img.remotely,
+  },
 ];
